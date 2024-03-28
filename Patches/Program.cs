@@ -27,7 +27,10 @@ internal class Program
                 VersionEngine version = new VersionEngine(releaseType, fileLocation);
                 version.Release = releaseType;
                 version.UpdateVersion();
-                Console.WriteLine(releaseType);
+                String _modifiedMinor = version.ModifiedMinor;
+                String _modifiedPatch = version.ModifiedPatch;
+                String response = $"The update of: {releaseType} completed successfully. The project is on minor {_modifiedMinor} and patch {_modifiedPatch}";
+                Console.WriteLine(response);
             }
             catch
             {
