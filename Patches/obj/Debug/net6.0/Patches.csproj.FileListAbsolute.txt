@@ -1,0 +1,17 @@
+C:\Users\SteveAttwell\source\repos\Patches\Patches\bin\Debug\net6.0\Patches.exe
+C:\Users\SteveAttwell\source\repos\Patches\Patches\bin\Debug\net6.0\Patches.deps.json
+C:\Users\SteveAttwell\source\repos\Patches\Patches\bin\Debug\net6.0\Patches.runtimeconfig.json
+C:\Users\SteveAttwell\source\repos\Patches\Patches\bin\Debug\net6.0\Patches.dll
+C:\Users\SteveAttwell\source\repos\Patches\Patches\bin\Debug\net6.0\Patches.pdb
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.csproj.AssemblyReference.cache
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.AssemblyInfoInputs.cache
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.AssemblyInfo.cs
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.csproj.CoreCompileInputs.cache
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.dll
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\refint\Patches.dll
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.pdb
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.genruntimeconfig.cache
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\ref\Patches.dll
+C:\Users\SteveAttwell\source\repos\Patches\Patches\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SteveAttwell\source\repos\Patches\Patches\obj\Debug\net6.0\Patches.csproj.CopyComplete
