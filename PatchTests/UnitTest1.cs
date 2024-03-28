@@ -32,6 +32,23 @@ namespace PatchTests
             //Assert
             Assert.AreEqual(expected, incrementCheck);
         }
+
+        [TestMethod]
+        public void TestMinorUpdateSetPatchToZero()
+        {
+            //Arrange
+            VersionEngine versionEngine = new VersionEngine(VersionEngine.ReleaseType.Patch);
+            String expected = "0";
+
+            //Act
+            versionEngine.UpdateMinor(1);
+            String checkPatch = versionEngine.ModifiedPatch;
+            
+            //Assert
+            Assert.AreEqual(expected, checkPatch);
+        }
+
+
     }
 
 

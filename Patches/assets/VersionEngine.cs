@@ -21,17 +21,16 @@ namespace Patches.assets
 
         public String ModifiedPatch
         {
-            get { return modifiedPatch; }
-            set { modifiedPatch = value; }
+            get => modifiedPatch;
+            set => modifiedPatch = value;
         }
 
         private String modifiedMinor;
         public String ModifiedMinor
         {
-            get { return modifiedMinor; }
-            set { modifiedMinor = value; }
+            get => modifiedMinor;
+            set => modifiedMinor = value;
         }
-
 
         public VersionEngine(ReleaseType release, String filePath)
         {
@@ -77,10 +76,6 @@ namespace Patches.assets
             string output = Newtonsoft.Json.JsonConvert.SerializeObject(jsonObj, Newtonsoft.Json.Formatting.Indented);
             File.WriteAllText(this.FilePath, output);
         }
-
-
-        
-        
 
         /// <summary>
         /// Accepts an integer variable and increments it. Results are persisted to modifiedMinor
