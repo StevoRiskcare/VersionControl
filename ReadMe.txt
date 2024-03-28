@@ -4,6 +4,7 @@ required fields will work. The provided file was missing a comma after Version a
 before the file could be used
 
 FURTHER IDEAS: 
-- With additional time the file could be an object. Units tests could check for 
-	-key errors 
+With additional time the json file could be set to an object with methods for reading field. 
+Units tests could check for 
+	- key errors 
 	- correctly parsing files
