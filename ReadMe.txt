@@ -5,6 +5,6 @@ before the file could be used
 
 FURTHER IDEAS: 
 With additional time the json file could be set to an object with methods for reading fields. 
-Units tests could check for 
+Unit tests could check for 
 	- key errors 
 	- correctly parsing files
